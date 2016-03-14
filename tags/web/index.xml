@@ -3,7 +3,7 @@
   <channel>
       <title>Web on Jean Perier </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://jperier.com/tags/web/</link>
+    <link>http://jeanperier.github.io/tags/web/</link>
     <language>fr-FR</language>
     
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Crédits</title>
-      <link>http://jperier.com/post/credits/</link>
+      <link>http://jeanperier.github.io/post/credits/</link>
       <pubDate>Mon, 14 Mar 2016 03:51:13 CET</pubDate>
       
-      <guid>http://jperier.com/post/credits/</guid>
+      <guid>http://jeanperier.github.io/post/credits/</guid>
       <description>&lt;p&gt;Pour réaliser ce site, j&amp;rsquo;ai utilisé &lt;a href=&#34;http://gohugo.io/&#34;&gt;hugo&lt;/a&gt; qui est générateur statique de site web.
 Le style a été conçu par Fredrik Loch. Il est diponible sur &lt;a href=&#34;https://github.com/SenjinDarashiva/hugo-uno&#34;&gt;GitHub&lt;/a&gt;.
 La photo en fond de la page d&amp;rsquo;acceuil provient de &lt;a href=&#34;https://unsplash.com/photos/KqVHRmHVwwM&#34;&gt;unsplash&lt;/a&gt;.
